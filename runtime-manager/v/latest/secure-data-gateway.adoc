@@ -1,5 +1,0 @@
-= Cloud Extender
-:keywords: data gateway, salesforce, cloud extender
-
-
-The Cloud Extender client provides a secure data link between your Data Gateways and enterprise data sources. Any private services or data sources behind an enterprise firewall can be made available to your Data Gateway application by using the Cloud Extender client.
